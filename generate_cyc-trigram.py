@@ -6,7 +6,7 @@ filename = "cyc_trigram.csv"
 
 # os.remove(dir_path + "/" + filename)
 # print("Existing file '" + filename + "' removed!")
-file = open("cyc_trigram.csv", "w")    # open file for writing
+file = open("cyc_trigram.txt", "w")    # open file for writing
 
 # letter lists
 consonantsBegin = ['b', 'c', 'd', 'f', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'r', 's', 't', 'v', 'w', 'y', 'z']
