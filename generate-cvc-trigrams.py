@@ -1,8 +1,9 @@
 #! /usr/bin/python3
 # import os
 
-filename = "cyc_trigram.csv"  # make sure we can open the file before we begin the other work
-file = open("cyc_trigram.csv", "w")  # open file for (over)writing
+# make sure we can open the file before we begin the other work
+# filename = "cvc_trigram.csv"
+file = open("cvc_trigram.csv", "w")  # open file for (over)writing
 
 # letter lists
 vowels = ['a', 'e', 'i', 'o', 'u']
