@@ -1,2 +1,5 @@
 # Default ignored files
 /workspace.xml
+
+# Added ignored files
+/cvc_trigrams.csv
